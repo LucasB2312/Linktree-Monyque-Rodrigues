@@ -81,6 +81,12 @@ header .container{
     
 }
 
+.links a.club{
+    background-image: url(../assets/Icone_clube.png);
+    background-size: 25px;
+    
+}
+
 .links a.web{
     background-image: url(../assets/globe.svg);
     background-size: 25px;
